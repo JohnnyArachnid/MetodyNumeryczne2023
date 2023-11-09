@@ -6,4 +6,4 @@ Wzór podany w poleceniu przeredagowałem na taki który, daje taki sam wynik po
 
 a) f(1) = 1.400781361 (Program main.cpp, można uruchomić osobiście albo przez make run1)
 
-b) 1471
+b) 1749,5
